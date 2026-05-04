@@ -6,7 +6,7 @@
 This project extrapolates findings from biomechanical research into a production-ready, large-scale cloud architecture. It addresses the acquisition, processing, and wireless transmission of physical variables in dynamic, real-world scenarios—from optimizing elite athletes to monitoring patient rehabilitation.
 
 ## Technical Architecture
-![GCP IoT Architecture](https://gist.githubusercontent.com/elvenj/GIST_ID/raw/gcp-iot-telemetry-architecture.svg)
+![GCP IoT Architecture](https://gist.githubusercontent.com/elvenj/COLE_SEU_ID_AQUI/raw/gcp-iot-telemetry-architecture.svg)
 
 The architecture is structured into a three-level sequential topology mapped to the **Google Cloud (GCP)** ecosystem:
 
